@@ -1,2 +1,6 @@
 # Canon-React-Native
-Cross-platform project on react native for camera canon
+
+![Image text](https://github.com/Yaroslav-Kostenko/Canon-React-Native/blob/main/cn-1.png)
+![Image text](https://github.com/Yaroslav-Kostenko/Canon-React-Native/blob/main/cn-2.png)
+
+Author: https://www.figma.com/@kevinlnt
